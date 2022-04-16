@@ -1,6 +1,6 @@
 <?php 
 $title ="Date";
-include 'includes\header.php'?>
+include 'header.php'?>
     <h1>Date and Time Manipulation</h1>
     <?php
         $date = getdate();
@@ -9,4 +9,4 @@ include 'includes\header.php'?>
         echo $date['year']."<br>";
 
     ?>
-<?php include 'includes\footer.php'?>
+<?php include 'footer.php'?>

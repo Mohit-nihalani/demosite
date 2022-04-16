@@ -1,6 +1,6 @@
 <?php 
 $title ="IfStatement";
-include 'includes\header.php'?>
+include 'header.php'?>
 <h1>If-Else Statement</h1>
 
 <?php
@@ -17,4 +17,4 @@ else
 }
 
 ?>
-<?php include 'includes\footer.php'?>
+<?php include 'footer.php'?>

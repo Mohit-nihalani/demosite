@@ -1,6 +1,6 @@
 <?php
 $title ="Switch";
- include 'includes\header.php'?>
+include 'header.php'?>
     <h1>Switch Statement</h1>
     <?php 
         $grade = 'A';
@@ -19,4 +19,4 @@ $title ="Switch";
 
     
     ?>
-<?php include 'includes\footer.php'?>
+<?php include 'footer.php'?>

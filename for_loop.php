@@ -1,6 +1,6 @@
 <?php 
 $title ="For_loop";
-include 'includes\header.php'?>
+include 'header.php'?>
     <h1>For Loop</h1>
     <?php 
         //For Loops
@@ -15,4 +15,4 @@ include 'includes\header.php'?>
         }
        
     ?>
-<?php include 'includes\footer.php'?>
+<?php include 'footer.php'?>

@@ -1,6 +1,6 @@
 <?php 
 $title ="String";
-include 'includes\header.php'?>
+include 'header.php'?>
     <h1>String Manipulation</h1>
     <?php 
     
@@ -15,4 +15,4 @@ include 'includes\header.php'?>
     echo "The strpos function in action : ". strpos("$name <br>" , "ni")."<br>";
     echo "The strchr function in action : ". strchr("$name <br>" , "ni")."<br>";
     ?>
-<?php include 'includes\footer.php'?>
+<?php include 'footer.php'?>

@@ -1,6 +1,6 @@
 <?php 
 $title ="Home";
-include 'includes\header.php'?>
+include 'header.php'?>
     
     <h1>PHP COURSE</h1>
     
@@ -14,4 +14,4 @@ include 'includes\header.php'?>
     <button type="button" class="btn btn-dark">Click ME</button>    
     <button type="button" class="btn btn-primary">Click ME</button>    
     <button type="button" class="btn btn-warning">Click ME</button>    
-<?php include 'includes\footer.php'?>
+<?php include 'footer.php'?>

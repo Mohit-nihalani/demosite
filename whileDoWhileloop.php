@@ -1,6 +1,6 @@
 <?php 
 $title ="While";
-include 'includes\header.php'?> 
+include 'header.php'?> 
     <h1>While Loop</h1>
     <?php 
         $count = 0;
@@ -22,4 +22,4 @@ include 'includes\header.php'?>
    }
    while($count<10); 
    ?>
-  <?php include 'includes\footer.php'?>
+  <?php include 'footer.php'?>

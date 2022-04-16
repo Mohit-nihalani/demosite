@@ -1,6 +1,6 @@
 <?php 
 $title ="Arrays";
-include 'includes\header.php'?>
+include 'header.php'?>
     <h1>PHP ARRAYS</h1>
 <?php
     $arr = [1,23,3,44,5,65,7,68,95,10];
@@ -10,4 +10,4 @@ include 'includes\header.php'?>
         echo "$arr[$i]<br>";  
     }
 ?>
-<?php include 'includes\footer.php'?>
+<?php include 'footer.php'?>

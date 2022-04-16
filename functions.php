@@ -1,6 +1,6 @@
 <?php 
 $title ="Functions";
-include 'includes\header.php'?>
+include 'header.php'?>
     <h1> PHP - Functions</h1>
 
     <?php
@@ -29,4 +29,4 @@ include 'includes\header.php'?>
     echo "$reVal";
 
     ?>
-<?php include 'includes\footer.php'?>
+<?php include 'footer.php'?>
