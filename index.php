@@ -12,4 +12,6 @@ include 'includes\header.php'?>
 
     ?>
     <button type="button" class="btn btn-dark">Click ME</button>    
+    <button type="button" class="btn btn-primary">Click ME</button>    
+    <button type="button" class="btn btn-warning">Click ME</button>    
 <?php include 'includes\footer.php'?>
